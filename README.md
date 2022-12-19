@@ -7,6 +7,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 <img width="1483" alt="Schermafbeelding 2022-12-08 om 14 55 16" src="https://user-images.githubusercontent.com/90447045/206464172-43c3a0c1-daf6-4b5c-ac4f-83e5b496e9fc.png">
 
+<img width="940" alt="Schermafbeelding 2022-12-19 om 12 29 14" src="https://user-images.githubusercontent.com/90447045/208416316-890facf5-9864-4a2f-bcac-e5f207988563.png">
 
 
 
